@@ -1,4 +1,4 @@
-import { Main } from "next/document";
+import { Main } from 'next/document';
 
 // Layout específico para Dashboard.
 export default function DashboardLayout({
